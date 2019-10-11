@@ -1,0 +1,7 @@
+name: PluginSetif
+version: 1.0.0 BETA
+main: setif.minicurso.Main
+authors: [Lucas]
+commands:
+  voar:
+    aliases: [fly]
